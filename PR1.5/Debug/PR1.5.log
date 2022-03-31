@@ -1,0 +1,5 @@
+﻿  Real.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.5\PR1.5\Real.cpp(9,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+LINK : fatal error LNK1168: cannot open D:\Student\Volvenko Ivan IT-12\2 сем\ООП\PR1.5\Debug\PR1.5.exe for writing
